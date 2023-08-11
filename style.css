@@ -101,7 +101,7 @@ img{
     box-shadow: 0px 0px 10px gray;
 }
 .text{
-    width: 40%;
+    width: 45%;
     
 }
 .lastpic{
@@ -118,4 +118,13 @@ img{
     top: 25%;
     width: 400px;
     height: 400px;
+}
+.lower{
+    font-size: large;
+    margin-bottom: 50px;
+    line-height: 20px;
+}
+.text >h1{
+    font-size: xx-large;
+    margin-bottom: 30px;
 }
