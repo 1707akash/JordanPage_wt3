@@ -32,8 +32,26 @@ header has been styized with width, padding,height & tetx color <br>
 ![s2](https://github.com/1707akash/JordanPage_wt3/assets/117883959/76e6ccd6-d4c1-408b-be05-3a2ff0200409)
 ![s2code](https://github.com/1707akash/JordanPage_wt3/assets/117883959/a2e502b9-2b1a-423b-bddf-35d8a4460c63)
 ![s2css](https://github.com/1707akash/JordanPage_wt3/assets/117883959/453637d4-7e9c-4a2a-91c7-4b73d0a09f04) <br>
-
-
+Section tag defines the section of documents such as chapters, headers, footers or any other sections.<br>
+div tag is used for dividing work in sections. <br>
+h1 tag is used for writing heading Trending.<br>
+image (img) element is used to add image to the element.<br>
+p tag is used in writing paragraph.<br>
+here images have been stylized with width, height, padding, background color<br>
+p tag given tetx color white <br>
+![s3](https://github.com/1707akash/JordanPage_wt3/assets/117883959/ba43ac34-7d97-4178-aa9c-0e62239c90c4)
+![s3code](https://github.com/1707akash/JordanPage_wt3/assets/117883959/3cd4b294-45c2-41dd-82df-e409bb3592e7)
+![s3css](https://github.com/1707akash/JordanPage_wt3/assets/117883959/1faa9d2a-61bd-4b4b-8107-2271b8258e8a)
+![lastcss](https://github.com/1707akash/JordanPage_wt3/assets/117883959/1c1941fa-2c0b-4c99-aa02-84b8ae7fff2b) <br>
+Section tag defines the section of documents such as chapters, headers, footers or any other sections.<br>
+div tag is used for dividing work in sections. <br>
+h1 tag is used for writing heading How did Air Jordan start?.<br>
+image (img) element is used to add image to the element.<br>
+p tag is used in writing paragraph.<br>
+here different background color added to container and innerbox divs using linear gradient. <br>
+box shadow property given to image and innerbox div. <br>
+hover property given to image with display as absolute, height width and position changes on hovering. <br>
+text color white and font large given to texts. <br>
 
 
 
